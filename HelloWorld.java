@@ -7,7 +7,7 @@ public class Pozdrav {
 
 
 	
-    system.out.println("Dodat pozdrav sa master grane");
+    system.out.println("Dodat pozdrav sa moje nove grane");
 
 
  }
